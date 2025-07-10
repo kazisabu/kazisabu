@@ -8,8 +8,8 @@
 /// <summary>
 /// Hello there, I am Kazi_Sabbir,  
 /// Cybersecurity Researcher & Ethical Hacker.  
-/// Specialized in Red Teaming, Web App Security, and OSINT.  
-/// CEH Certified | Bug Bounty Hunter | CTF Player.  
+/// Specialized in Red Teaming, Web App Security, and Blue Teaming.  
+/// Security Researcher | Bug Bounty Hunter | CTF Player.  
 /// Skilled in Vulnerability Analysis, Penetration Testing, and Threat Hunting.  
 /// Turning vulnerabilities into opportunities for stronger defense.  
 /// Always available for pwnage.  
