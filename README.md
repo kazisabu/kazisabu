@@ -1,6 +1,6 @@
 🟥🟨🟩
 ```javascript
-┌──(NOX㉿slander)-[~/whoami] 
+┌──(NOX㉿slendar)-[~/whoami] 
 └─$ ./recon.sh --profile
 ```
 
