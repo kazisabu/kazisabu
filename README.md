@@ -1,8 +1,9 @@
 🟥🟨🟩
-
+```javascript
 ┌──(NOX㉿slander)-[~/whoami] 
 └─$ ./recon.sh --profile
-
+```
+```javascript
 /// <summary>
 /// Hello there, I am Kazi Sabbir,  
 /// Cybersecurity Researcher & Ethical Hacker.  
@@ -78,3 +79,4 @@ public static class SOCIAL_MEDIA
 ¦  ¦ */
 ¦  }
 }
+```
